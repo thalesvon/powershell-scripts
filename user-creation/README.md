@@ -35,8 +35,8 @@ snippet bellow to configure the required environment varibles, after configuring
 
 After the scripts are executed an confirmation e-mail (figure 1) is sent, this is very helpful for auditing reasons. If any user account is not created by an error, an failure e-mail is sent specifing only the users that were not created (figure 2).
 
-![Figure 1 - Email Success](images/email_success.jpg)
-![Figure 2 - Email Fail](images/email_fail.jpg)
+![Figure 1 - Email Success](/images/email_success.jpg)
+![Figure 2 - Email Fail](/images/email_fail.jpg)
 
 ## Contributing
 
