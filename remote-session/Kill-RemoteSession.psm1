@@ -1,10 +1,10 @@
 function Kill-RemoteSession {
     <#  
     .SYNOPSIS  
-        Retrieves all user sessions from local or remote computers(s)
+        Kill all user sessions from local or remote computers(s)
     
     .DESCRIPTION
-        Retrieves all user sessions from local or remote computer(s).
+        Kill all user sessions from local or remote computer(s).
         
         Script depends on Get-UserSession (https://gallery.technet.microsoft.com/scriptcenter/Get-UserSessions-Parse-b4c97837#content)
         Place Get-UserSession.ps1 on same directory as this script
