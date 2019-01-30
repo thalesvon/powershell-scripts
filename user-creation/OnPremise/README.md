@@ -8,7 +8,7 @@ The file **new_exchange.csv** and **exchange_new_user.ps1** should be in the sam
 
 Although most variables are [environment defined](/user-creation/README.md), there are some things that need to be changed before execution. These are mostly regarding exchange online properties.
 
-````
+```
 
     #Define exchange database
     $maildb = "NAME OF EXCHANGE DATABASE"
