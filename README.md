@@ -1,1 +1,3 @@
-Scripts power shell repo
+# PowerShell Scripts
+
+PowerShell scripts for tedious sysadmin tasks
