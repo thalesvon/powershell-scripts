@@ -1,0 +1,3 @@
+name; givenName; surName; samAccountName; description; pobox; crmref; userPrincipalName; employeeNumber; office; title; department; manager; ou
+Jarbas Onildo; Jarbas; Onildo; jarbasonlido; 59; 03624; 4568; jarbasonlido@contosco.com; jarbasonlido@contosco.com; CONTOSCO OFFICE; TITLE; DEPARTMENT; manager_samAccountName; OU=Path,DC=to,DC=OrganizationUnit
+ 
