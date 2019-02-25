@@ -1,4 +1,4 @@
-# Office365 User creation
+# Exchange on Premises User creation
 
 ## Instruction
 
