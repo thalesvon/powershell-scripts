@@ -7,7 +7,7 @@ These are some regular task for a sysadmin working in a Microsoft/Office365 envi
 
 These scripts need a lot of improvement. Contributions are made through pull request
 
-#Issues
+# Issues
 
 For reporting issues, please add as much information as possible, examples but not limited to:
 
